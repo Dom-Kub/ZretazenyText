@@ -1,0 +1,11 @@
+﻿Build started 5.1.2015 15:05:07.
+     1>Project "F:\Uniza\3.Semester\Informatika 3\INF3 Skúška\Moje\ZretazenyText\ZretazenyText\ZretazenyText.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Uniza\3.Semester\Informatika 3\INF3 Skúška\Moje\ZretazenyText\Debug\ZretazenyText.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Uniza\3.Semester\Informatika 3\INF3 Skúška\Moje\ZretazenyText\Debug\ZretazenyText.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Uniza\3.Semester\Informatika 3\INF3 Skúška\Moje\ZretazenyText\Debug\ZretazenyText.lib" /MACHINE:X86 Debug\Source.obj
+     1>MSVCRTD.lib(crtexe.obj) : error LNK2019: unresolved external symbol _main referenced in function ___tmainCRTStartup
+     1>F:\Uniza\3.Semester\Informatika 3\INF3 Skúška\Moje\ZretazenyText\Debug\ZretazenyText.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "F:\Uniza\3.Semester\Informatika 3\INF3 Skúška\Moje\ZretazenyText\ZretazenyText\ZretazenyText.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.23
